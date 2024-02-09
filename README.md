@@ -1,4 +1,4 @@
-# Battle Guys
+# Battle Guys: Survival Showdown
 ## Overview
 In the war-torn dystopian future, where survival is the ultimate prize, Battle Guys thrusts you into a high-stakes arena. As one of the chosen combatants, you’ll fight for supremacy, fame, and your very existence. The rules are simple: be the last one standing.
 
@@ -24,7 +24,8 @@ As you fight for supremacy, you’ll encounter rogue robots, mutated creatures, 
 7. The Show Must Go On
 The entire world watches your every move. Spectators bet on your survival, and sponsors offer game-changing rewards.
 Will you play it safe or go for the riskiest plays to entertain the masses?
-Release Date
-Battle Guys: Survival Showdown is set to launch in late 2024 on PC, Xbox Series X/S, and PS51.
+
+## Release Date
+Battle Guys: Survival Showdown is set to launch in early 2024 for Android / iOS, late 2024 on PC, Xbox Series X/S, and PS5.
 
 Prepare for the ultimate battle royale experience. Remember, in this arena, there can only be one winner. Good luck, Battle Guy!
